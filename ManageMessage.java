@@ -1,4 +1,4 @@
-/*This file is one above level of pojo classes it has methods like call_first() which is required to configure hibernate for specific schema using 
+/*This file is one level above of pojo classes it has methods like call_first() which is required to configure hibernate for specific schema using 
 hibernate.cfg.xml here schema is "captain". 
 */
 import java.util.*;
